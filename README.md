@@ -8,7 +8,7 @@
 - 📫 How to reach me: BrianStinerProfessional@gmail.com
 - ⚡ Fun fact: I'm seen as a shaman for listening well and saying little.
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -30,7 +30,6 @@
 [<img align="left" alt="Docker" width="26px" src"https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />]
 [<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/kubernetes.svg" />]
 [<img align="left" alt="Gimp" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" />]
-[<img align="left" alt="Jupyter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" />]
 
 <br />
 <br />
