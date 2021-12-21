@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning how to take my time
 - 👯 I’m looking to buddy up and learn more obscure nuggets of code
-- 💬 Lets talk about 
+- 💬 Lets talk to each other
 - 📫 How to reach me: BrianStinerProfessional@gmail.com
 - ⚡ Fun fact: I'm seen as a shaman for listening well and saying little.
 
