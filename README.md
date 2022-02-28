@@ -1,6 +1,6 @@
 ### Hi there, I'm Brian Stiner👋 - aka MathMagicMachine aka Adynaton
 
-## I'm a full stack .net developer with a mysterious past
+## I'm a full stack .net developer with a mysterious past in a magical land
 
 - 🌱 I’m currently learning how to take my time
 - 👯 I’m looking to buddy up and learn more obscure nuggets of code
