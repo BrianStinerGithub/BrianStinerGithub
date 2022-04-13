@@ -11,8 +11,6 @@
 LinkedIn 
 [<img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" />][linkedin]
 
-<br />
-
 ### Languages and Tools:
 
 [<img align="left" alt="VSCode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />][VSCode]
@@ -39,7 +37,7 @@ LinkedIn
 [.NET Core]: https://dot.net/
 [HTML5]: https://www.w3.org/TR/html5/
 [CSS3]: https://www.w3.org/Style/CSS/
-[JavaScript]: https://www.javascript.com/
+[JavaScript]: https:/en.wikipedia.org/wiki/JavaScript
 [C#]: https://docs.microsoft.com/en-us/dotnet/csharp/
 [Angular]: https://angular.io/
 [SQL]: https://www.postgresql.org/
