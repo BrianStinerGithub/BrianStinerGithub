@@ -8,7 +8,7 @@
 - 📫 How to reach me: BrianStinerProfessional@gmail.com
 - ⚡ Fun fact: the rules are made up and the points don't matter
 
-LinkedIn <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin](https://www.linkedin.com/in/mathmagicmachine/)
+LinkedIn <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin]
 
 <br />
 
@@ -33,7 +33,7 @@ LinkedIn <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr
 <br />
 
 ---
-[linkedin]: 
+[linkedin]: https://www.linkedin.com/in/mathmagicmachine/
 [VSCode]: https://code.visualstudio.com/
 [.NET Core]: https://dot.net/
 [HTML5]: https://www.w3.org/TR/html5/
@@ -48,5 +48,4 @@ LinkedIn <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr
 [Django]: https://www.djangoproject.com/
 [Python]: https://www.python.org/
 [Tensorflow]: https://www.tensorflow.org/
-`;
 
