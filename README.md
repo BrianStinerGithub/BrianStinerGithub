@@ -20,7 +20,7 @@ LinkedIn
 [<img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />][JavaScript]
 [<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />][C#]
 [<img align="left" alt="Angular" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" />][Angular]
-[<img align="left" alt="SQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />] [SQL]
+[<img align="left" alt="SQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />][SQL]
 [<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/kubernetes.svg" />][Kubernetes]
 [<img align="left" alt="Gimp" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" />][Gimp]
 [<img align="left" alt="Wasm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/WebAssembly_Logo.svg" />][WebAssembly]
