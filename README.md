@@ -8,7 +8,7 @@
 - 📫 How to reach me: BrianStinerProfessional@gmail.com
 - ⚡ Fun fact: the rules are made up and the points don't matter
 
-LinkedIn <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin]
+LinkedIn [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
