@@ -16,7 +16,7 @@ LinkedIn
 [<img align="left" alt="VSCode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />][VSCode]
 [<img align="left" alt="DotNet" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" />][.NET Core]
 [<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />][HTML5]
-[<img align="left" alt="CSS3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />][CSS3]
+[<img align="left" alt="CSS3" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />][CSS3]
 [<img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />][JavaScript]
 [<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />][C#]
 [<img align="left" alt="Angular" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" />][Angular]
