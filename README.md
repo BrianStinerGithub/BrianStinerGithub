@@ -24,7 +24,7 @@ LinkedIn
 [<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/kubernetes.svg" />][Kubernetes]
 [<img align="left" alt="Gimp" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" />][Gimp]
 [<img align="left" alt="Wasm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/WebAssembly_Logo.svg" />][WebAssembly]
-[<img align="left" alt="Django" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" />][Django]
+[<img align="left" alt="Django" width="26px" src="https://i0.wp.com/copyassignment.com/wp-content/uploads/2021/08/Django-logo.jpg" />][Django]
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" />][Python]
 [<img align="left" alt="Tensorflow" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />][Tensorflow]
 <br />
