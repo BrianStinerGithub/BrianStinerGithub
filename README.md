@@ -9,6 +9,7 @@
 - ⚡ Fun fact: the rules are made up and the points don't matter
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" />][linkedin]
+<br />
 
 ### Languages and Tools:
 
